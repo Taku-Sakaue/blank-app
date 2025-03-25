@@ -1,4 +1,5 @@
 import streamlit as st
+import pydicom as dic
 
 st.title("🎈 My new app")
 st.write(
